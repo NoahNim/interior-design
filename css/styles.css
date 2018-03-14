@@ -1,16 +1,15 @@
 .column {
   float: left;
-  width: 30%;
-}
-img {
-  width: 200px;
-  height: 300px;
-}
-
-.works {
-  font-style: 25px;
+  background-color: gray;
+  font-size: 25px;
   font-weight: bold;
   color: red;
+  margin: 50px;
+}
+
+img {
+  width: 400px;
+  height: 300px;
 }
 
 html {
@@ -18,4 +17,16 @@ html {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+}
+
+#one {
+  background-color: #9fc2ea;
+}
+
+#two {
+  background-color: #a2efcb;
+}
+
+#three {
+  background-color: #efeba2;
 }
